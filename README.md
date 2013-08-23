@@ -12,4 +12,4 @@ This script crawls the repo's directory structure looking for `*.geojson` files 
 
 ### Continuous Integration
 
-To help with continuous deployment things like [Travis CI](https://travis-ci.org/), the process exits with a status of `0` if all items are valid and `1` if one or more items aren't.
+To help with continuous integration things like [Travis CI](https://travis-ci.org/), the process exits with a status of `0` if all items are valid and `1` if one or more items aren't.
